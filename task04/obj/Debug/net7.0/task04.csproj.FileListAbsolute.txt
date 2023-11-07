@@ -1,0 +1,14 @@
+C:\Users\светлана\Desktop\CsharpHW\task04\bin\Debug\net7.0\task04.exe
+C:\Users\светлана\Desktop\CsharpHW\task04\bin\Debug\net7.0\task04.deps.json
+C:\Users\светлана\Desktop\CsharpHW\task04\bin\Debug\net7.0\task04.runtimeconfig.json
+C:\Users\светлана\Desktop\CsharpHW\task04\bin\Debug\net7.0\task04.dll
+C:\Users\светлана\Desktop\CsharpHW\task04\bin\Debug\net7.0\task04.pdb
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.AssemblyInfoInputs.cache
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.AssemblyInfo.cs
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.csproj.CoreCompileInputs.cache
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.dll
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\refint\task04.dll
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.pdb
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\task04.genruntimeconfig.cache
+C:\Users\светлана\Desktop\CsharpHW\task04\obj\Debug\net7.0\ref\task04.dll
