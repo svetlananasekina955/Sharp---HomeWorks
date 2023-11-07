@@ -1,0 +1,14 @@
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.AssemblyInfoInputs.cache
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.AssemblyInfo.cs
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.csproj.CoreCompileInputs.cache
+C:\Users\светлана\Desktop\CsharpHW\task02\bin\Debug\net7.0\task02.exe
+C:\Users\светлана\Desktop\CsharpHW\task02\bin\Debug\net7.0\task02.deps.json
+C:\Users\светлана\Desktop\CsharpHW\task02\bin\Debug\net7.0\task02.runtimeconfig.json
+C:\Users\светлана\Desktop\CsharpHW\task02\bin\Debug\net7.0\task02.dll
+C:\Users\светлана\Desktop\CsharpHW\task02\bin\Debug\net7.0\task02.pdb
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.dll
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\refint\task02.dll
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.pdb
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\task02.genruntimeconfig.cache
+C:\Users\светлана\Desktop\CsharpHW\task02\obj\Debug\net7.0\ref\task02.dll
